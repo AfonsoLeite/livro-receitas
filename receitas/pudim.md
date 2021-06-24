@@ -7,8 +7,6 @@
 2. 1 lata de leite condensado
 3. 2 latas de açucar
 4. 3 claras em neve
-5. 2 potes de brigadeiro
-6. 1 melancia 
 
 ### Modo de Preparo
 
@@ -18,7 +16,8 @@
 
 3. jogue o açucar e o leite condensado
 
-4. Misture tudo e acrescente a melancia 
+4. Bata tudo no liquidificador
+5. Leve ao fogo médio por aproximadamente 35 minutos
 
 
 
